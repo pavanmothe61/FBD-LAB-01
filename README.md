@@ -12,6 +12,10 @@
 
 - **GitHub Repository:** https://github.com/pavanmothe61/FBD-LAB-01.git
 
+## Deployment (Render)
+
+- **Deploy on Render:** [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/pavanmothe61/FBD-LAB-01)
+
 ## Objective
 
 To set up a Node.js project, create a basic HTTP server using the built-in `http` module, and build an Express server with multiple routes and appropriate HTTP status codes.
